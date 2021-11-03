@@ -617,6 +617,7 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(text="🎬 YouTube", url=f"{url}"),
                     InlineKeyboardButton(text="Download 📥", url=f"{dlurl}"),
+                    InlineKeyboardButton("𝐎𝐖𝐍𝐄𝐑😈 🥀", url=f"https://t.me/Yaamiin"),
                 ],
                 [InlineKeyboardButton(text="❌ Close", callback_data="cls")],
             ]
@@ -728,6 +729,7 @@ async def play(_, message: Message):
                     [
                         InlineKeyboardButton(text="🎬 YouTube", url=f"{url}"),
                         InlineKeyboardButton(text="Download 📥", url=f"{dlurl}"),
+                        InlineKeyboardButton("𝐎𝐖𝐍𝐄𝐑😈 🥀", url=f"https://t.me/Yaamiin"),
                     ],
                     [InlineKeyboardButton(text="❌ Close", callback_data="cls")],
                 ]
@@ -884,6 +886,7 @@ async def ytplay(_, message: Message):
             [
                 InlineKeyboardButton(text="🎬 YouTube", url=f"{url}"),
                 InlineKeyboardButton(text="Download 📥", url=f"{dlurl}"),
+                InlineKeyboardButton("𝐎𝐖𝐍𝐄𝐑😈 🥀", url=f"https://t.me/Yaamiin"),
             ],
             [InlineKeyboardButton(text="❌ Close", callback_data="cls")],
         ]
@@ -1140,6 +1143,7 @@ async def lol_cb(b, cb):
             [
                 InlineKeyboardButton(text="🎬 YouTube", url=f"{url}"),
                 InlineKeyboardButton(text="Download 📥", url=f"{dlurl}"),
+                InlineKeyboardButton("𝐎𝐖𝐍𝐄𝐑😈 🥀", url=f"https://t.me/Yaamiin"),
             ],
             [InlineKeyboardButton(text="❌ Close", callback_data="cls")],
         ]
